@@ -3,9 +3,12 @@ name = "fiers"
 version = "0.1.0"
 authors = ["Vitor Cortez <vitor.a.cortez@gmail.com>"]
 
-description = "A fuzzy inference engine rust library"
-keywords = ["fuzzy logic", "fuzzy inference system"]
+description = "A fuzzy inference engine library"
+keywords = ["fuzzy logic", "inference engine", "library"]
 license = "MIT"
+
+homepage = "https://github.com/vekat/fiers"
+repository = "https://github.com/vekat/fiers.git"
 
 [dependencies]
 
