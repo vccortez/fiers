@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Vitor Cortez <vitor.a.cortez@gmail.com>"]
 
 description = "A fuzzy inference engine library"
-keywords = ["fuzzy logic", "inference engine", "library"]
+keywords = ["fuzzy-logic", "inference-engine", "library"]
 license = "MIT"
 
 homepage = "https://github.com/vekat/fiers"
