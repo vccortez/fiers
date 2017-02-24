@@ -1,0 +1,15 @@
+[package]
+name = "fiers"
+version = "0.1.0"
+authors = ["Vitor Cortez <vitor.a.cortez@gmail.com>"]
+
+description = "A fuzzy inference engine rust library"
+keywords = ["fuzzy logic", "fuzzy inference system"]
+license = "MIT"
+
+[dependencies]
+
+[features]
+default = ["wip"]
+
+wip = []
