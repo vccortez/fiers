@@ -11,8 +11,3 @@ homepage = "https://github.com/vekat/fiers"
 repository = "https://github.com/vekat/fiers.git"
 
 [dependencies]
-
-[features]
-default = ["wip"]
-
-wip = []
